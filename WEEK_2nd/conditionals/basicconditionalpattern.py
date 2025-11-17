@@ -1,10 +1,12 @@
-'''This problem gives you exposure to different use cases of if ... elif and else conditional structues.
+''' QUESTION - This problem gives you exposure to different use cases of if ... elif and else conditional structues.
 
 Part 1 - Only if
 
 Part 2 - if ... else
 
 Part 3 - if ... elif'''
+
+# PLATFORM - IITM course
 
 
 # part 1 - If pattern

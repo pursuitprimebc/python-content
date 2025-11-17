@@ -1,4 +1,4 @@
-'''Problem Type: Standard Output - Standard Output
+''' QUESTION - 
 
 You are tasked with creating a multi-purpose application that performs various operations based on user input. The application should take the operation name from the input and execute the corresponding task.
 
@@ -30,6 +30,7 @@ Inputs: principal_amount:int, n_years:int (number of years)
 Output: Simple interest with a 5% interest rate if less than 10 years, else 8%. Round the result to integer using round function.
 If the operation name is not any of the above print "Invalid Operation".'''
 
+# PLATFORM - IITM course
 
 import math
 name = input()

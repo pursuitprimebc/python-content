@@ -1,7 +1,8 @@
-'''Assign text that are given in the comments "as is" without the space after the "#" to the corresponding variable names in the template.
+''' QUESTION - Assign text that are given in the comments "as is" without the space after the "#" to the corresponding variable names in the template.
 
 Note: There are no inputs to this question, you only have to print the things that are given in the comments in each line'''
 
+# PLAFORM - IITTM course
 
 # A single quote ' and a double quote "
 output1 = 'A single quote \' and a double quote "'

@@ -1,3 +1,5 @@
+# QUESTION - Depict the flowchart
+# PLATFORM - IITM course
 print('travel from city A to city B')
 time=int(input('enter time'))
 longer_time=int(input('define longer'))

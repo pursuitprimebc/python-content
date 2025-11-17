@@ -1,4 +1,4 @@
-'''Write a program to calculate the cost of a meal at a restaurant.
+''' QUESTION - Write a program to calculate the cost of a meal at a restaurant.
 
 The cost of the meal depends on the main dish and the time of the day.
 Main dishes available:
@@ -16,6 +16,8 @@ Time of the day: int: 24-hour format
 Whether the customer has a voucher: bool: True/False
 Whether the payment is by card: bool: True/False
 Calculate and display the total cost of the meal.'''
+
+# PLATFORM - IITM course
 
 
 main_dish = input()
