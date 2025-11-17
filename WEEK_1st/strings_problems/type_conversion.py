@@ -1,4 +1,4 @@
-'''Get age(int), dob(str of format "dd/mm/yy") and weight(float) from the standard input and print the tenth_month, fifth_birthday and 
+''' QUESTION - Get age(int), dob(str of format "dd/mm/yy") and weight(float) from the standard input and print the tenth_month, fifth_birthday and 
 last_birthday formatted as "day/month/year"(do not include the preceeding zero for single digit number) separated by comma and a space a single line and 
 print the weight_readable(str formatted as "55 kg 200 grams")
 
@@ -9,6 +9,7 @@ Note: The last_birthday depends on the dob and age. For example if the dob is "2
 
 Note: Finding the tenth_month will be a bit of challange. If you are stuck open the below hint.'''
 
+# PLATFORM - IITM course
 
 age = int(input()) # int: Read a number as integer from standard input
 dob = input().strip() # str: Read a string of format dd/mm/yy from standard input

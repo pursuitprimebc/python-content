@@ -1,4 +1,5 @@
-'''This exercise gives you practice in different indexing and slicing methods.'''
+''' QUESTION - This exercise gives you practice in different indexing and slicing methods.'''
+# PLATFORM - IITM course
 
 # Sample inputs 
 

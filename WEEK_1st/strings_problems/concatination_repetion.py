@@ -1,4 +1,5 @@
-# Solve all the below tasks related to string concatenation, repeatition and substring check in strings.
+# QUESTION -  Solve all the below tasks related to string concatenation, repeatition and substring check in strings.
+# PLATFORM - IITM course
 
 # Sample inputs 
 word1 = "Wingardium" # str

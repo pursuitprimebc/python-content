@@ -1,9 +1,10 @@
-'''Solve all the below tasks related to relational and logical operators.
+'''QUESTION - Solve all the below tasks related to relational and logical operators.
 
 This exercise gives you practice in building up boolean expressions.
 
 Problem Type: Input variable - Output Variable, Hidden suffix for evaluation'''
 
+# PLATFORM - IITM course
 
 # Sample inputs
 a = 5
