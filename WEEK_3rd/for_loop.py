@@ -1,4 +1,4 @@
-'''Write a multi functional program that takes input task from standard input and does the corresponding taks accordingly. Note that the useage of for loop is not allowed in this exercise.
+''' QUESTION - Write a multi functional program that takes input task from standard input and does the corresponding taks accordingly. Note that the useage of for loop is not allowed in this exercise.
 
 Part 1 - while loop to for loop
 factorial - print factorial of a given non-negative integer n (Type: Accumulation)
@@ -19,8 +19,9 @@ list_iter - Print the elements of a list l line by line in the format {element} 
 (Even though list are not covered in this week, this is included to demonstrate the similarity between iterating characters in a str and items in a list)
 Input - l:list'''
 
+# PLATFORM - IITM course
 
-# Note this prefix code is to verify that you are not using any for loops in this exercise. This won't affect any other functionality of the program.
+
 with open(__file__) as f:
     content = f.read().split("# <eoi>")[2]
 if "while " in content:
