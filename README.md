@@ -43,7 +43,3 @@
 <p align="left">This repository contains comprehensive topics and practice questions related to Python programming, organized into weekly folders for structured learning. Each week focuses on specific concepts complemented by exercises to reinforce understanding:<br><br>Description of topic covered in each week - <br><br>1️⃣  WEEK1 : Datatypes, Operators,Variables and strings.<br><br>2️⃣ WEEK2 :  Strings, if/else Statement and library.<br><br>3️⃣ WEEK3 : For loop , formatted printing and nested iteration.<br><br>4️⃣ WEEK4 : Lists , Sets, tuples and intro to function .<br><br>5️⃣ WEEK5 : Dictionary , sorting using functions , matrix multiplication , scopes of variables , lambda unction,enumerate,zip,map filter.<br><br>6️⃣ WEEK6 : Questions ( numbers, strings , collections )</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pursuitprimebc/pursuitprimebc/output/snake.svg" alt="Snake animation" />
-
-###
