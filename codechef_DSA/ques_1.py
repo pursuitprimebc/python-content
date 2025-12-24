@@ -25,3 +25,6 @@ for i in range(t):
         Burgers+=A
     print('No. of burgers made: ', Burgers)                
 
+
+# EXPLANATION - 
+
