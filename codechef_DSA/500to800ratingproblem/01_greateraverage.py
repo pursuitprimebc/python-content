@@ -14,4 +14,12 @@ For each test case, output YES if average of A and B is strictly greater than C,
 '''
 
 
-
+t = int(input())
+for i in range(t):
+    a,b,c = map(int, input().split())
+    avg = (a+b)/2
+    if avg > c:
+        print('yes')
+    else:
+        print('no')
+    
