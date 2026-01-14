@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="218" src="https://ideogram.ai/assets/image/lossless/response/RmDCPyCEQDagseHomOfqyA@2k"  />
-</div>
+<img align="left" height="218" src="https://ideogram.ai/assets/image/lossless/response/RmDCPyCEQDagseHomOfqyA@2k"  />
 
 ###
 
