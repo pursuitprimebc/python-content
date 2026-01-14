@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left">- Use of basic mathematical operators.<p align="left">1.division<br>2.multiplication<br>- Use of conditionals (if,elif,else).<br>- Use of loops (for,while).<br>- Basics of python .</p>
+<p align="left">- Use of basic mathematical operators(/,//,%,+,=,!=,*,**,etc).<br>- Use of conditionals (if,elif,else).<br>- Use of loops (for,while).<br>- Basics of python .</p>
 
 ###
