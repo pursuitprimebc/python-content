@@ -26,5 +26,5 @@ for i in range(t):
         print('huge')
     else:
         print('small')
-
         
+
