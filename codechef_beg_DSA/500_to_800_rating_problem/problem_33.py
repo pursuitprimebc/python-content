@@ -14,7 +14,7 @@ For each test case, output on a new line the maximum possible tastiness of the d
 
 t = int(input())
 for i in range(t):
-    a,b,c,d = map(int, input().split())
+    a,b,c,d = map(int, input().split()) 
     firstingredient = max(a,b)
     secondingredient = max(c,d)
     maximumpossibletastiness = firstingredient+secondingredient
