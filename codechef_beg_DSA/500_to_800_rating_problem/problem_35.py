@@ -18,7 +18,7 @@ For each test case, output in a single line the minimum time taken by the police
 t = int(input())
 for i in range(t):
     x,y = map(int, input().split())
-    time = abs(x-y)
+    time = abs(x-y) 
     print(time)
 
 
