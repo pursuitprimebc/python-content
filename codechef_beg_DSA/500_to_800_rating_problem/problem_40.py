@@ -27,4 +27,4 @@ for i in range(t):
     else:
         print('small')
 
-
+        
