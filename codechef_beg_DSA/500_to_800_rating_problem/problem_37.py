@@ -18,4 +18,4 @@ for i in range(t):
     maximumpeople = x//oneperson
     print(maximumpeople)
     
-
+ 
