@@ -16,6 +16,6 @@ Print in a single line, an integer denoting the total number of minutes that Che
 
 x,y = map(int, input().split())
 watchtime = (y//2)+(x-y)
-print(watchtime)
+print(watchtime) 
 
 
