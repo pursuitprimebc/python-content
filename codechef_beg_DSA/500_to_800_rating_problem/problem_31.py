@@ -29,7 +29,7 @@ for i in range(t):
         else:
             print('Lower Single')
     else:
-        if n<=25:
+        if n<=25: 
             print('Upper Double')
         else:
             print('Upper Single')
