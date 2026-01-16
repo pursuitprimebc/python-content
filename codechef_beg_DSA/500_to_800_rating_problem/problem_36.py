@@ -19,6 +19,6 @@ for i in range(t):
     N, X = map(int,input().split())
     miniimum_op = min(X,N-X)
     print(miniimum_op)
-
+ 
 
 
