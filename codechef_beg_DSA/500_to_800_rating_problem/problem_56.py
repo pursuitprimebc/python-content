@@ -22,7 +22,7 @@ for i in range(t):
     elif (s-x)>=z or (s-y)>=z:
         print('1')
     elif s >= z:
-        print('2')
+        print('2') 
     
 
 
