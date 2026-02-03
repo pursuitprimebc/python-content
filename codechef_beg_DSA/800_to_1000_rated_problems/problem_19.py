@@ -1,0 +1,22 @@
+'''QUESTION - ighest Divisor
+Read problem statements in Hindi, Bengali, Mandarin Chinese, Russian, and Vietnamese as well.
+You are given an integer N. Find the largest integer between 1 and 10 (inclusive) which divides N.
+
+Input
+The first and only line of the input contains a single integer N.
+
+Output
+Print a single line containing one integer ― the largest divisor of N between 1 and 10.
+'''
+
+
+n = int(input())
+divisors = []
+for i in range(1,11):
+    if n % i == 0:
+        divisors.append(i)
+
+print(max(divisors))        
+
+
+
