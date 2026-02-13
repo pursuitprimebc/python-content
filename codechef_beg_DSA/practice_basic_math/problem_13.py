@@ -20,7 +20,7 @@ def find_lcm(a,b):
     else:
         # formula for LCM is (a*b)/GCD 
         l = abs(a*b)//find_gcd(a,b)
-    return l
+    return l 
     
     
 t = int(input())
