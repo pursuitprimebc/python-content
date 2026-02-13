@@ -16,7 +16,6 @@ For each test case, print a single line containing one integer — the minimum r
 t = int(input())
 for i in range(t):
     x = int(input())
-    count = 0 
     if x%10==0:
         print('0')
     elif x%5==0:
