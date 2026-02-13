@@ -20,14 +20,13 @@ def find_lcm(a,b):
     else:
         # formula for LCM is (a*b)/GCD 
         l = abs(a*b)//find_gcd(a,b)
-    return l 
+    return l
     
     
 t = int(input())
 while t > 0:
     a, b = map(int, input().split())
     t -= 1
-   
     print(find_gcd(a,b),find_lcm(a,b))
     
     
