@@ -24,5 +24,5 @@ for i in range(t):
         print('0')
     elif abs(a-b)%3==0:
         print('1')
-    else:
+    else: 
         print('2')
