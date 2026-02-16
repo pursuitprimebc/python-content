@@ -23,6 +23,6 @@ for i in range(t):
     
     if x==y:
         print('yes')
-    else:
+    else:  
         print('no')
             
