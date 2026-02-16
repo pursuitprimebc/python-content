@@ -17,4 +17,4 @@ for i in range(t):
     if n==1 or n==3 or n==5:
         print('no')
     else:
-        print('yes')
+        print('yes') 
