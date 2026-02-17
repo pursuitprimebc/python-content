@@ -1,0 +1,33 @@
+''' QUESTION - Reverse Words in a String
+You are given a string s consisting of English letters (uppercase and lowercase), digits, and spaces ' '. The string may contain leading or 
+trailing spaces, or multiple spaces between words.
+
+Your task is to reverse the order of the words in the string. A word is defined as a sequence of non-space characters.
+
+The resulting string should:
+
+Contain words in reversed order.
+Have only single spaces separating words.
+Not contain leading or trailing spaces.
+Function Declaration
+Function Name reverseWords - This function reverses the order of words in a given string while ensuring that words are separated by exactly one space and there are no leading or trailing spaces.
+
+Parameterss : A string consisting of English letters (uppercase and lowercase), digits, and spaces ' '.
+Return Value
+Returns a string containing the words of s in reversed order.
+The returned string:
+Contains words separated by a single space.
+Has no leading or trailing spaces.
+'''
+
+
+def reverseWords(s: str) -> str: 
+    return " ".join(s.split()[::-1])
+    
+s = input()
+print(reverseWords(s))
+    
+    
+    
+    
+    
