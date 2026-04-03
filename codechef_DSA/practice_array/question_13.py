@@ -69,7 +69,7 @@ else:
 '''
 
 
-# alternative approach [AI]
+# alternative approach [AI] 
 '''
 n = int(input())
 A = list(map(int, input().split()))
