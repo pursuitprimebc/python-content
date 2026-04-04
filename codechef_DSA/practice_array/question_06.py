@@ -16,14 +16,21 @@ For each test case, output on a new line, the minimum number of operations requi
 '''
 
 
-class Solution:
-    def count_non_minimum(self, nums):
-        m = min(nums)
-        count_m = 0
-        for x in nums:
-            if x == m:
-                count_m += 1
+def count_non_minimum(nums):
+    n = len(nums)
+    m = min(nums)
+    count_m = 0
+    for x in nums:
+        if x == m:
+            count_m += 1
+    
+    return n - count_m
         
-        return n - count_m
+t = int(input())
+for i in range(t):
+    n = int(input())
+    nums = list(map(int, input().split()))
+    
+    print(count_non_minimum(nums))
 
 
