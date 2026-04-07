@@ -22,7 +22,7 @@ if n == 1:
     
 for i in range(n):
     if i==0:
-        if a[i] > a[i+1]:
+        if a[i] > a[i+1]: 
             peaks.append(a[i])
     
     elif i == (n-1):
